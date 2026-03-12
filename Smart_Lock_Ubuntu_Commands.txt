@@ -1,0 +1,17 @@
+
+# 🔐 Smart Lock System with OTP Authentication - Ubuntu Deployment Guide
+
+# 1. Update system packages
+sudo apt update
+
+# 2. Install required build tools and libraries
+sudo apt install build-essential libssl-dev -y
+
+# 3. Navigate to your project folder
+cd /mnt/c/Smart-Lock-System-with-TOTP-Authentication
+
+# 4. Compile the C++ program using g++ with OpenSSL
+g++ main.cpp TOTP.cpp -std=c++11 -lssl -lcrypto -o smartlock
+
+# 5. Run the Smart Lock system
+./smartlock
