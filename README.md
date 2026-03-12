@@ -109,8 +109,8 @@ This project is created for educational and research purposes only to demonstrat
 Students and developers are free to study, learn, and experiment with the code.
 
 However, proper credit must be given to the original developer.
-
-⚠️ Ownership & Usage Policy
+---
+### ⚠️ Ownership & Usage Policy
 
 This project was developed by:
 
@@ -125,19 +125,19 @@ If you use this project for:
 You must provide proper credit to the original developer.
 
 Failure to provide attribution while using or distributing the code will be considered misrepresentation.
-
+---
 ### 🚫 Unauthorized Commercial Use
 
 Selling, redistributing, or commercially exploiting this project without proper permission from the author is strictly prohibited.
 
 Any misuse, plagiarism, or misrepresentation of the code may result in legal or DMCA action.
-
+---
 ### 📜 Patent & Intellectual Property Notice
 
 This project concept and implementation may be used for academic demonstration, but unauthorized reproduction or commercialization without attribution may violate intellectual property rights.
 
 If any individual or organization attempts to mislead users by claiming ownership of this code, appropriate legal and DMCA actions may be initiated.
-
+---
 ### 📅 Project Declaration
 
 Project Owner:
@@ -145,14 +145,14 @@ Aluvala Ediga Harsha Vardhan Goud
 
 Project Creation Date:
 12 March 2026
-
+---
 ### 📧 Contact
 
 For questions, collaboration, or permission requests:
-
+---
 ### 📧 Email:
 sunrisesharsha467@gmail.com
-
+---
 ### 📄 License
 
 This project is licensed under the Apache License 2.0.
@@ -162,7 +162,7 @@ You may obtain a copy of the License at:
 http://www.apache.org/licenses/LICENSE-2.0
 ```
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND.
-
+---
 ### ⭐ Support
 
 If you found this project useful:
@@ -172,3 +172,4 @@ If you found this project useful:
 🍴 Fork the project
 
 📢 Share with others
+---
