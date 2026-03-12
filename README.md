@@ -132,11 +132,17 @@ Selling, redistributing, or commercially exploiting this project without proper 
 
 Any misuse, plagiarism, or misrepresentation of the code may result in legal or DMCA action.
 ---
-### 📜 Patent & Intellectual Property Notice
 
-This project concept and implementation may be used for academic demonstration, but unauthorized reproduction or commercialization without attribution may violate intellectual property rights.
+### 📜 Intellectual Property Notice
 
-If any individual or organization attempts to mislead users by claiming ownership of this code, appropriate legal and DMCA actions may be initiated.
+- This project was independently developed by **Aluvala Ediga Harsha Vardhan Goud** for educational and research purposes.
+
+- The source code is released under the **Apache License 2.0**. This license allows others to use, modify, and distribute the code, provided that the original copyright notice and license are preserved.
+
+- Although this project is open-source, the original authorship remains with the developer. Any attempt to remove attribution, misrepresent authorship, or redistribute the code without maintaining the license terms may violate the license agreement.
+
+- If misuse or misrepresentation occurs, the repository owner reserves the right to report such violations through **GitHub’s DMCA and abuse reporting mechanisms**.
+
 ---
 ### 📅 Project Declaration
 
